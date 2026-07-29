@@ -69,14 +69,6 @@ AI-powered application designed to analyze CVs and improve candidate-job matchin
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilham999-byte&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham999-byte&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with Me
 
 * LinkedIn: [Ilham Ettouil](https://linkedin.com/in/ilham-ettouil)
